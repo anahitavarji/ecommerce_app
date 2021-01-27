@@ -1,0 +1,241 @@
+/* Main */
+
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: sans-serif;
+     background-color: wheat;
+  }
+  
+  
+  nav {
+   background-color: rgba(31, 28, 28, 0.5);
+  }
+  
+  .nav li { 
+    display: inline;
+    
+  }
+  
+  .nav li {
+    float: center;
+    
+  }
+  
+  .nav li a{
+    display: block;
+    text-align: center;
+    padding-right: 50px;
+    text-decoration: none;
+    font-size: 35px;
+    color: white;
+  text-shadow: 2px 2px black;
+  }
+  
+  .nav li a {
+    background-color: #404040;
+  }
+  
+  .nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    width: 100%;
+    background-color: rgba(31, 28, 28, 0.5);
+  }
+  
+  .footer {
+    color: slategrey;
+    padding: 20px;
+    margin-top: 30px;
+    color: white;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    
+  }
+  
+  .footer a {
+    padding: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color:white;
+  }
+  
+  
+  .card-container {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+  }
+  
+  .card {
+    height: 400px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f8c498;
+  } 
+
+  @viewport {
+    zoom: 1.0;
+    width: extend-to-zoom;
+  }
+
+
+
+
+@media (min-width: 480px) { body {font-size: 8px;} } 
+@media (min-width: 992px) { body {font-size: 16px;} } 
+
+
+
+
+
+
+
+  
+  /* Homepage Design */
+  
+  
+  .hero-image {
+    background-image:  url("https://images.unsplash.com/photo-1570823635306-250abb06d4b3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+    height: 500px;
+    width:  100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+  }
+  
+  .hero-text{
+    padding-top: 250px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-size: 50px;
+  }
+   
+  a {
+    text-decoration: none;
+  }
+  
+  .candles {
+   width: 100%;
+   height: 200px;
+    
+  }
+  
+  #header {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+  }
+  
+  .facts {
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+  text-shadow: 1px 1px black;
+  }
+  
+  h6 {
+    display: none;
+  }
+  
+  
+  
+  /* Discover Design */
+  
+  
+  #hero-image2 {
+    background-image:  url("https://images.unsplash.com/photo-1510772314292-9c0ad420734a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+    height: 500px;
+    width:  100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+  }
+  
+  
+  h2 {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+  text-shadow: 2px 2px black;
+  }
+  
+  h3 {
+    text-align: center;
+    color: white;
+  text-shadow: 2px 2px black;
+  }
+
+  h4 {
+    text-align: center;
+    color: white;
+  text-shadow: 1px 1px black;
+  }
+
+  .buy {
+    height:20px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+  }
+  
+  
+  
+  
+  /* Contact Page Design */
+  
+  #hero-image3 {
+    background-image:  url("https://images.unsplash.com/photo-1598580852245-567874b2dc7a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80");
+    height: 500px;
+    width:  100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+  }
+  
+  
+      
+  .container {
+    padding: 20px;
+    color: white;
+  text-shadow: 1px 1px black;
+  }
+  
+  input[type="text"], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+   
+  }
+  
+  input[type="submit"] {
+    background-color: black; 
+    color: white;
+    padding: 12px 20px;
+    cursor: pointer;
+    
+  }
+  
+  input[type="submit"]:hover {
+  /* change look of the mouse */
+    background-color: white;
+    color: black;
+  }
+
+  
