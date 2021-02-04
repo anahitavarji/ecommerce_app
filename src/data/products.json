@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Spiced Pumpkin",
+        "price": "$29.50" ,
+        "description": "Pumpkins baked in simmering spices of clove, nutmeg and cinnamon, and sweetened with brown sugar.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/11522.jpg"
+    },
+
+    {
+
+        "name": "Pecan Pie Bites",
+        "price": "$29.50" ,
+        "description": "Miniature pastries, just right for sharing, with a sweetly spiced filling that’s loaded with toasted pecans.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/1629357.jpg"
+
+    },
+
+    {
+
+        "name": "Autumn Embers",
+        "price": "$29.50" ,
+        "description": "The crackling embers of a bonfire bring fall’s favorite scents — apple, spice, and a touch of smoky firewood.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/1629390.jpg"
+
+    },
+
+    {
+
+        "name": "Balsam & Cedar",
+        "price": "$29.50" ,
+        "description": "Balsam, aromatic cedar wood and juniper berry blend together in a fresh forest scent.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/1062314.jpg"
+
+    },
+
+    {
+
+        "name": "Apple Pumpkin",
+        "price": "$29.50" ,
+        "description": "Cultivated with care...home-grown apples and pumpkins blended with ginger and clove.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/1244650.jpg"
+
+    },
+
+    {
+
+        "name": "Macintosh",
+        "price": "$29.50" ,
+        "description": "So vividly real you can almost taste the unmistakable crunch of that first bite of apple.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/115436.jpg"
+
+    },
+
+    {
+
+        "name": "Home Sweet Home",
+        "price": "$29.50" ,
+        "description": "A heartwarming blend of cinnamon, baking spices and a hint of freshly poured tea.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/11597.jpg"
+
+    },
+
+    {
+
+        "name": "Christmas Cookie",
+        "price": "$29.50" ,
+        "description": "Buttery rich, vanilla scented, holiday sugar cookies.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/115504.jpg"
+
+    },
+
+    {
+
+        "name": "Dried Lavender & Oak",
+        "price": "$29.50" ,
+        "description": "Hand tied bunches of lavender mill about the woodsy scents and spices of an outdoor farmers market.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/1623631.jpg"
+
+    },
+
+    {
+
+        "name": "Christmas Wreath",
+        "price": "$29.50" ,
+        "description": "Fresh-cut boughs and branches of pine, balsam and hollyberry.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/115476.jpg"
+
+    },
+
+    {
+
+        "name": "Warm & Cozy",
+        "price": "$29.50" ,
+        "description": "A beautiful bonfire night ends wrapped up in a soft blanket as you breathe in crisp, fresh notes of cedar, cashmere, and eucalyptus.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/1629346.jpg"
+
+    },
+
+    {
+
+        "name": "Harvest",
+        "price": "$29.50" ,
+        "description": "A blend of cinnamon, cloves, and musk with a hint of sweet apples and pumpkin.",
+        "image": "https://www.yankeecandle.com/media/images/product/medium/115505.jpg"
+
+    }
+
+]
